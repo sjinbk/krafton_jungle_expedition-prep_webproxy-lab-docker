@@ -60,3 +60,5 @@ dkms.conf
 # Other files
 proxylab.pdf
 scratchPad.c
+echoclient
+echoserver
